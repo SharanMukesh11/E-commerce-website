@@ -11,7 +11,6 @@ import { IoIosArrowBack } from "react-icons/io";
 import { MdCheckBoxOutlineBlank } from "react-icons/md";
 import Logopic from './assets/Frame 136278.png'
 import USpic from './assets/United.png';
-import Pic from './assets/image.png';
 import { RiInstagramFill } from "react-icons/ri";
 import { FaLinkedin } from "react-icons/fa";
 

@@ -98,7 +98,7 @@ function App() {
         </div>
         {/* --------------------------------product page--------------------- */}
         <div className='products'>
-          <div className='leftprot lefthide'>
+          <div className='leftprot '>
             <div className='com'>
               <div>
             <MdCheckBoxOutlineBlank />&nbsp;&nbsp;CUSTOMIZBIL

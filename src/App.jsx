@@ -312,7 +312,7 @@ function App() {
             </div>
             <div className='size5'>
             <p> mettu muse ACCEPTS  </p><br/>
-            <img src={Logopic} style={{height:"30px"}} alt="" />
+            <img src={Logopic} style={{height:"30px",width:"230px"}} alt="" />
               
             </div>
           </div>

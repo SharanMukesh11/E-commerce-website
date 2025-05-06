@@ -251,7 +251,7 @@ function App() {
               </div>
               <div className='imgcont'>
                 <h4>{item.title}</h4>
-                <p className='size1'> <a href=''> Signin </a> or create an account to see pricing</p>
+                <p className='size1'> <a href='' onClick={open3}> Signin </a> or create an account to see pricing</p>
                 <CiHeart className='size2' />
               </div>
             </div>
